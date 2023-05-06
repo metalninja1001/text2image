@@ -9,6 +9,6 @@ This is a bash script that can be used to create images from text. You will be r
 - 2 - `your api key`
 - 3 - `a text prompt to convert to an image` 
 - 4 - `the number of images to generate` and 
-- 5 - `the size of the image/s. The availabe sizes are `256x256`, `512x512`, `1024x1024``
+- 5 - `the size of the image/s. The availabe sizes are` : `256x256`, `512x512`, `1024x1024`
 
 
