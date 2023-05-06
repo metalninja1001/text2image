@@ -2,7 +2,7 @@
 This is a bash script that can be used to create images from text. You will be required to have an openAI API key.
 
 ## How to:
-- Download the script to your linux device running bash.
+- Download the script to your linux device running bash. Please note : It is necessary to have `curl` installed on your system.
 - Sign up with OpenAI and create an API key. You can follow this link : `https://platform.openai.com` and select the account icon in the top right-hand corner and select `view api keys`.
 - Once you run the script, you will need enter the api url : 
 - 1 -`https://api.openai.com/v1/images/generations`
