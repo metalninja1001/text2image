@@ -11,4 +11,9 @@ This is a bash script that can be used to create images from text. You will be r
 - 4 - `the number of images to generate` and 
 - 5 - `the size of the image/s. The availabe sizes are` : `256x256`, `512x512`, `1024x1024`
 
+## Here is an example image:
+
+![image](https://user-images.githubusercontent.com/101802030/236631567-4bf9c621-08cd-4eb9-8157-95bf97908f46.png)
+
+
 
